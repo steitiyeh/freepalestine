@@ -18,7 +18,7 @@ The list aims to raise awareness about corporate involvement in the ongoing conf
 
 ### Human-Readable Format
 
-Check out the [supporting_list.md](supporting_list.md) file for the detailed list of companies in a human-readable table format, including:
+Check out the [boycott_list.md](boycott_list.md) file for the detailed list of companies in a human-readable table format, including:
 
 - Company Name
 - Stock Code
