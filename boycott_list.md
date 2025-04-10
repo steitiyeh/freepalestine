@@ -48,7 +48,7 @@ This list includes publicly traded companies that are known or suspected to supp
 | Dell Technologies           | DELL                | Won a $150 million server tender for Israeli Ministry of Defense in 2023. | [Boycott Israel](https://boycott-israel.org/a-simple-boycott-list/) |
 | NVIDIA                      | NVDA                | Raised $10 million for Israeli charities aiding war-affected civilians. | [Boycott Israel](https://boycott-israel.org/a-simple-boycott-list/) |
 | Qualcomm                    | QCOM                | Operates R&D facilities in Israel focusing on wireless communication technologies. | [Boycott Israel](https://boycott-israel.org/a-simple-boycott-list/) |
-| McDonald’s Corporation      | MCD                 | Provided free meals to Israeli troops amid war with Hamas.   | [IHRC](https://www.ihrc.org.uk/new-anti-israeli-boycott-list-issued/) |
+| McDonald’s Corporation      | MCD                 | Provided free meals to Israeli troops amid war with Gaza.   | [IHRC](https://www.ihrc.org.uk/new-anti-israeli-boycott-list-issued/) |
 | Burger King                 | QSR                 | Donated free meals to Israeli forces.                        | [IHRC](https://www.ihrc.org.uk/new-anti-israeli-boycott-list-issued/) |
 | Starbucks                   | SBUX                | Largest shareholder Howard Schultz invests heavily in Israel’s economy. | [Boycott Israel](https://boycott-israel.org/a-simple-boycott-list/) |
 | Coca-Cola                   | KO                  | Operates as Coca-Cola Israel, a franchisee in Israel.        | [Boycott Israel](https://boycott-israel.org/a-simple-boycott-list/) |
